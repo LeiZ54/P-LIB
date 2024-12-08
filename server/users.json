@@ -18,5 +18,15 @@
     "username": "admin",
     "password": "admin123",
     "role": "admin"
+  },
+  {
+    "username": "lei",
+    "password": "zl954954",
+    "role": "student"
+  },
+  {
+    "username": "lei1",
+    "password": "zl954954",
+    "role": "student"
   }
 ]

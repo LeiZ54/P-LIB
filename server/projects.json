@@ -172,8 +172,26 @@
       "HTML",
       "Node.js"
     ],
-    "delete": false,
+    "delete": true,
     "githubLink": "",
+    "websiteLink": ""
+  },
+  {
+    "title": "P-LIB",
+    "author": "Lei",
+    "contact": "layzhu@bu.edu",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "Upload your projects",
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "HTML",
+      "React",
+      "CSS",
+      "Express"
+    ],
+    "githubLink": "https://github.com/LeiZ54/P-LIB",
     "websiteLink": ""
   }
 ]

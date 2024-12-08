@@ -12,6 +12,11 @@ function SignUpPage() {
   const handleSignUp = async (e) => {
     e.preventDefault();
 
+    if (password !== confirmPassword) {
+      toast.error("Passwords do not match!");
+      return;
+    }
+
     try {
       const response = await api.post('/register', {
         username,
@@ -23,7 +28,7 @@ function SignUpPage() {
       toast.success(`Welcome Join Us ${username}!`);
       navigate('/');
     } catch (error) {
-      toast.error(error.response.data.error);
+      toast.error(error.response?.data?.error || "An error occurred. Please try again.");
       console.error(error);
     }
   };

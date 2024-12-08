@@ -23,7 +23,6 @@ function CreateProjectPage() {
     const handleSubmit = async (e) => {
         e.preventDefault();
 
-        // Basic validation
         if (!title || !author || !semester || !description) {
             toast.error('Please fill in all required fields.');
             return;
@@ -34,7 +33,7 @@ function CreateProjectPage() {
             author,
             contact,
             semester,
-            class: className, // Map className to class
+            class: className,
             description,
             tags,
             githubLink,
@@ -44,10 +43,9 @@ function CreateProjectPage() {
         setIsSubmitting(true);
 
         try {
-            const response = await api.post('/projects/create', newProject);
+            await api.post('/projects/create', newProject);
             toast.success('Project created successfully!');
             navigate('/');
-            // Reset form fields
             setTitle('');
             setAuthor('');
             setContact('');
