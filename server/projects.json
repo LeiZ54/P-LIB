@@ -1,0 +1,179 @@
+[
+  {
+    "title": "Project Name 1",
+    "author": "lei",
+    "contact": "lei@example.com",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "This project aims to build an intelligent online learning platform. By integrating interdisciplinary educational resources and personalized recommendation algorithms, the platform customizes learning paths for each student and generates data-driven feedback reports. The ultimate goal is to enhance learning efficiency and foster greater learner autonomy.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "delete": true,
+    "githubLink": "https://github.com/lei/project1",
+    "websiteLink": "https://example.com/project1"
+  },
+  {
+    "title": "Project Name 2",
+    "author": "mark",
+    "contact": "555-1234",
+    "semester": "Fall 2023",
+    "class": "CS 622",
+    "description": "Focusing on enterprise knowledge management, this project develops an efficient document retrieval system that uses NLP and semantic analysis to accelerate workflows.",
+    "tags": [
+      "Java",
+      "React",
+      "GraphQL"
+    ],
+    "delete": true,
+    "githubLink": "https://github.com/mark/knowledgemanage",
+    "websiteLink": ""
+  },
+  {
+    "title": "Project Name 3",
+    "author": "jane",
+    "contact": "jane_doe@example.com",
+    "semester": "Spring 2024",
+    "class": "CS 601",
+    "description": "A geospatial platform integrating satellite imagery and climate data. Researchers can visualize species distribution and environmental changes through interactive maps.",
+    "tags": [
+      "Python",
+      "Django",
+      "Leaflet"
+    ],
+    "delete": true,
+    "githubLink": "",
+    "websiteLink": "https://example.com/enviro-maps"
+  },
+  {
+    "title": "Project Name 4",
+    "author": "alice",
+    "contact": "alice@example.com",
+    "semester": "Fall 2024",
+    "class": "CS 665",
+    "description": "This project implements a blockchain-based supply chain traceability system. It ensures product transparency from raw materials to final goods, enhancing brand trust.",
+    "tags": [
+      "Node.js",
+      "Blockchain",
+      "Express"
+    ],
+    "delete": false,
+    "githubLink": "https://github.com/alice/supplychain",
+    "websiteLink": "https://example.com/supplychain"
+  },
+  {
+    "title": "Project Name 5",
+    "author": "bob",
+    "contact": "444-5678",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "An immersive art exhibition platform using VR/AR technologies. Users can explore virtual galleries and interact with artworks in real-time, fostering new avenues of creative expression.",
+    "tags": [
+      "Unity",
+      "WebXR",
+      "Three.js"
+    ],
+    "delete": false,
+    "githubLink": "",
+    "websiteLink": "https://example.com/art-showcase"
+  },
+  {
+    "title": "Project Name 6",
+    "author": "cindy",
+    "contact": "cindy_l@example.com",
+    "semester": "Fall 2024",
+    "class": "CS 566",
+    "description": "A platform that leverages big data analytics to personalize healthcare recommendations. Integrates patient records, wearable device data, and AI-driven insights.",
+    "tags": [
+      "Python",
+      "Flask",
+      "AI"
+    ],
+    "delete": false,
+    "githubLink": "https://github.com/cindy/healthAI",
+    "websiteLink": ""
+  },
+  {
+    "title": "Project Name 7",
+    "author": "david",
+    "contact": "555-7890",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "A collaborative coding environment that supports real-time edits and integrated testing. Ideal for distributed dev teams looking to accelerate code review cycles.",
+    "tags": [
+      "Go",
+      "React",
+      "WebSockets"
+    ],
+    "delete": false,
+    "githubLink": "https://github.com/david/collabcoder",
+    "websiteLink": "https://example.com/collabcoder"
+  },
+  {
+    "title": "Project Name 8",
+    "author": "eric",
+    "contact": "eric@example.com",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "An IoT-based smart agriculture system that monitors soil conditions and automates irrigation. Farmers receive data-driven recommendations to optimize crop yield.",
+    "tags": [
+      "Python",
+      "IoT",
+      "RaspberryPi"
+    ],
+    "delete": false,
+    "githubLink": "",
+    "websiteLink": "https://example.com/smart-agri"
+  },
+  {
+    "title": "Project Name 9",
+    "author": "fiona",
+    "contact": "fiona@example.com",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "A language learning app that combines speech recognition and gamification. Users improve pronunciation, vocabulary, and grammar through interactive challenges.",
+    "tags": [
+      "Kotlin",
+      "Android",
+      "ML"
+    ],
+    "delete": false,
+    "githubLink": "https://github.com/fiona/lingolearn",
+    "websiteLink": ""
+  },
+  {
+    "title": "Project Name 10",
+    "author": "gary",
+    "contact": "555-9999",
+    "semester": "Fall 2024",
+    "class": "CS 602",
+    "description": "A fintech platform that aggregates financial data for personal budgeting. Users visualize expenses, track investments, and receive tailored financial advice.",
+    "tags": [
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Chart.js"
+    ],
+    "delete": false,
+    "githubLink": "https://github.com/gary/fintech",
+    "websiteLink": "https://example.com/myfintech"
+  },
+  {
+    "title": "P-LIB",
+    "author": "Lei",
+    "contact": "piggy9549@gmail.com",
+    "semester": "Fall 2024",
+    "class": "CS 601",
+    "description": "Share the projects with your classmates",
+    "tags": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "Node.js"
+    ],
+    "delete": false,
+    "githubLink": "",
+    "websiteLink": ""
+  }
+]
